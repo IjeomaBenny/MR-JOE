@@ -1,0 +1,45 @@
+.nav{
+    display: flex;
+    padding: 15px 5%;
+    align-items: center;
+    gap: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.nav img{
+    width: 50px;
+}
+.nav p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 700;
+    
+}
+
+.nav ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: auto;
+    gap: 30px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(50,50,91);
+    
+
+    
+}
+.nav button{
+    padding: 10px 20px;
+    background-color:rgb(50,50,91);
+    border-radius: 5px;
+    color:yellow;
+    font-family: sans-serif;
+    font-weight: 700;
+    
+    
+
+
+
+    
+
+}
